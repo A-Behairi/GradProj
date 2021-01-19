@@ -58,8 +58,8 @@ Start the local development server
 To install with [Docker](https://www.docker.com), run following commands:
 
 ```
-git clone git@github.com:gothinkster/laravel-realworld-example-app.git
-cd laravel-realworld-example-app
+git clone https://github.com/A-Behairi/GradProj
+cd GradProj
 cp .env.example.docker .env
 docker run -v $(pwd):/app composer install
 cd ./docker
