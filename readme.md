@@ -1,4 +1,4 @@
-# ![Laravel Project](logo.png)
+# ![Laravel Project]
 
 
 > ### Welcome to my Laravel based Graduation Project case study.
